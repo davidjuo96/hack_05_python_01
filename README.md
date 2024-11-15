@@ -6,7 +6,7 @@ Este repositorio contiene mi solución a la primera serie de hacks de Social Opl
 
 ## Tabla de contenidos
 - [Instrucciones de Instalación](#instrucciones-de-instalación)
-- [Descripción de Hacks](#descripción-de-hacks)
+- [Descripción de los Hacks](#descripción-de-los-hacks)
 - [Pruebas](#pruebas)
 
 ---
